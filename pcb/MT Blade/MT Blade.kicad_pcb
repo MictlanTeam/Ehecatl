@@ -493,13 +493,13 @@
 				(xy -75.140053 12.845662) (xy -71.09332 12.12455) (xy -70.834513 12.07375) (xy -70.510305 12.07375)
 				(xy -70.125079 11.99755) (xy -69.683773 11.92135) (xy -69.191328 11.79435) (xy -68.652686 11.76895)
 				(xy -68.072785 11.64195) (xy -67.456568 11.48955) (xy -66.808973 11.38795) (xy -60.502728 10.351404)
-				(xy -60.447585 10.299957) (xy -60.447585 10.299957) (xy -30.318157 5.154214) (xy -28.427199 4.831325)
-				(xy -26.565599 4.513575) (xy -24.736935 4.201571) (xy -22.944787 3.89592) (xy -21.192736 3.597232)
-				(xy -19.484358 3.306112) (xy -17.823239 3.023169) (xy -16.212954 2.74901) (xy -14.657086 2.484243)
-				(xy -13.159213 2.229475) (xy -11.722915 1.985314) (xy -10.351774 1.752367) (xy -9.049368 1.531242)
-				(xy -7.819277 1.322546) (xy -6.665081 1.126888) (xy -5.59036 0.944874) (xy -4.598694 0.777113) (xy -3.693663 0.624211)
-				(xy -2.878847 0.486777) (xy -2.157826 0.365417) (xy -1.534178 0.26074) (xy -1.011487 0.173353) (xy -0.593329 0.103864)
-				(xy -0.283285 0.05288) (xy -0.084936 0.021008) (xy -0.001861 0.008857) (xy 0 0.00875)
+				(xy -60.447585 10.299957) (xy -30.318157 5.154214) (xy -28.427199 4.831325) (xy -26.565599 4.513575)
+				(xy -24.736935 4.201571) (xy -22.944787 3.89592) (xy -21.192736 3.597232) (xy -19.484358 3.306112)
+				(xy -17.823239 3.023169) (xy -16.212954 2.74901) (xy -14.657086 2.484243) (xy -13.159213 2.229475)
+				(xy -11.722915 1.985314) (xy -10.351774 1.752367) (xy -9.049368 1.531242) (xy -7.819277 1.322546)
+				(xy -6.665081 1.126888) (xy -5.59036 0.944874) (xy -4.598694 0.777113) (xy -3.693663 0.624211) (xy -2.878847 0.486777)
+				(xy -2.157826 0.365417) (xy -1.534178 0.26074) (xy -1.011487 0.173353) (xy -0.593329 0.103864) (xy -0.283285 0.05288)
+				(xy -0.084936 0.021008) (xy -0.001861 0.008857) (xy 0 0.00875)
 			)
 			(stroke
 				(width 0)
@@ -4798,7 +4798,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "32c1f23c-7bb7-4d63-b8b2-2fab0db0e7fe")
+			(uuid "b15da715-4998-4754-9680-3700599d898e")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -4806,7 +4806,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 9 "/3.3_M")
 			(pintype "input")
-			(uuid "32c1f23c-7bb7-4d63-b8b2-2fab0db0e7fe")
+			(uuid "13a14c8d-9a95-4083-a817-64136e9abc1c")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -4826,7 +4826,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b2351068-8d32-4878-9e55-c7bee55a0d26")
+			(uuid "7374ddcc-95f5-43dd-8925-d7dd659f2528")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -4838,7 +4838,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b2351068-8d32-4878-9e55-c7bee55a0d26")
+			(uuid "883b0001-7aab-4fcf-bc99-5e9321b8e57d")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -4858,7 +4858,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "2c48f807-8c28-4500-992f-016b4bb7dccf")
+			(uuid "0fe2e0c8-b2ed-4cd2-af8b-7d1f5faad55a")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -4870,7 +4870,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "2c48f807-8c28-4500-992f-016b4bb7dccf")
+			(uuid "61a08aa7-c9f7-4e58-a771-cfeef14911e0")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -4894,7 +4894,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "2719e768-278d-4b68-939e-185f90dcc34a")
+			(uuid "1062aa40-e57e-413f-9c9c-2ed8ddf83c7a")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -4902,10 +4902,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "2719e768-278d-4b68-939e-185f90dcc34a")
+			(uuid "ee4f67a7-a3e6-411d-8a7e-e0e28c46659e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -5801,7 +5801,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "a2f78ad6-1406-46e2-b01a-8d2f292dd827")
+			(uuid "94e5ee8b-dcd6-4e4e-9399-b1422ab01f02")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -5809,7 +5809,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 9 "/3.3_M")
 			(pintype "input")
-			(uuid "a2f78ad6-1406-46e2-b01a-8d2f292dd827")
+			(uuid "73c8d9b3-658d-4ba3-ab9f-ef1e9e5a7193")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -5829,7 +5829,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "2a426413-4dbd-4d7e-84e9-481e8d6970d6")
+			(uuid "2eb407bb-6649-4ed4-b38d-df72bbcaf718")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -5841,7 +5841,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "2a426413-4dbd-4d7e-84e9-481e8d6970d6")
+			(uuid "3c1d5860-4917-43ad-a014-b9b481b91fae")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -5861,7 +5861,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "a2c28a72-f206-4b90-89a3-e9fffd319999")
+			(uuid "9b2e1912-34a7-4ca9-a6c9-bc85389652f3")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -5873,7 +5873,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "a2c28a72-f206-4b90-89a3-e9fffd319999")
+			(uuid "9c5be85b-5cda-4223-b0ba-4a4c2ff2642a")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -5897,7 +5897,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "300b6934-d267-4c4b-907e-c97f17996501")
+			(uuid "646a0bc5-3b58-4a3a-9c67-23fec01d4a71")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -5905,10 +5905,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "300b6934-d267-4c4b-907e-c97f17996501")
+			(uuid "a8b89a3d-b808-4d3e-aec1-fee58f280245")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -6184,7 +6184,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "c297e64f-a25c-4b56-b518-bef5c494450d")
+			(uuid "209c1bd4-7326-4c0a-96f3-548e380257a3")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -6192,7 +6192,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 20 "Net-(R4-Pad2)")
 			(pintype "input")
-			(uuid "c297e64f-a25c-4b56-b518-bef5c494450d")
+			(uuid "62745ae3-a4b8-42b9-85a3-da30614ffd15")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -6212,7 +6212,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "21aa1acf-c10f-42a2-99ae-f932dc3d8f3d")
+			(uuid "92788eb6-ecfa-46d9-b533-b24f8e9dbb62")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -6224,7 +6224,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "21aa1acf-c10f-42a2-99ae-f932dc3d8f3d")
+			(uuid "9ccbf5ea-2f8f-40cc-b2bd-36028f10a9a9")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -6244,7 +6244,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "f9e111d0-0403-4538-b9b1-7c3fbe2c5db6")
+			(uuid "2ba89b62-003f-4032-a54b-bf1867378354")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -6256,7 +6256,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "f9e111d0-0403-4538-b9b1-7c3fbe2c5db6")
+			(uuid "4be66dd1-7c96-4dea-9dc5-c053b81b58c6")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -6280,7 +6280,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "fb247d26-b617-447b-b4e2-216bf567a9a1")
+			(uuid "479e6a38-b81a-4d4e-92ca-7eb32406f8e0")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -6288,7 +6288,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "fb247d26-b617-447b-b4e2-216bf567a9a1")
+			(uuid "dba9239e-1f27-4843-96fd-4d461987b624")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
@@ -6567,7 +6567,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "cf33f471-6a31-4526-aa4c-87c4477a6d3b")
+			(uuid "05df8ef1-3c8c-4653-b023-b1d7870c9106")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -6575,7 +6575,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 9 "/3.3_M")
 			(pintype "input")
-			(uuid "cf33f471-6a31-4526-aa4c-87c4477a6d3b")
+			(uuid "96b3f103-f00f-4c19-85fb-958ad2ea3bac")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -6595,7 +6595,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "28ae491d-b7d1-4718-ae23-606437b67e95")
+			(uuid "5f7afb31-cc10-470c-9ec5-2324b837c534")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -6607,7 +6607,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "28ae491d-b7d1-4718-ae23-606437b67e95")
+			(uuid "1470bb15-ef4d-4600-8e67-c8fa8a5f07f2")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -6627,7 +6627,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "76e07f4f-de88-44b1-9a95-d8b1126e29b0")
+			(uuid "70fa00b4-184d-4283-9302-b4b39e454e1f")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -6639,7 +6639,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "76e07f4f-de88-44b1-9a95-d8b1126e29b0")
+			(uuid "ce24466e-f400-4291-b04f-80996d96a2a8")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -6663,7 +6663,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "c15e7d2b-1899-4474-a861-06d0a575bb79")
+			(uuid "11eee694-4076-43fe-a656-656ff2629d45")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -6671,10 +6671,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "c15e7d2b-1899-4474-a861-06d0a575bb79")
+			(uuid "cec742ba-a443-4ddb-a72c-0990fb4ec0af")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -7545,7 +7545,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "54b0d5bc-be69-4f82-849e-c8a6cc65e994")
+			(uuid "ee454d89-3649-4186-9857-17d86a575dc5")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -7553,7 +7553,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 40 "Net-(R13-Pad2)")
 			(pintype "input")
-			(uuid "54b0d5bc-be69-4f82-849e-c8a6cc65e994")
+			(uuid "1d3905c3-6388-4564-8874-506856eb8c3e")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -7573,7 +7573,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "ed8110f7-6064-495c-91c0-37b5b0b7f913")
+			(uuid "edd3aa85-a49a-4ce7-9fd1-d41b810225c4")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -7585,7 +7585,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "ed8110f7-6064-495c-91c0-37b5b0b7f913")
+			(uuid "81beac6b-cbcf-49c9-a184-678366c7c27b")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -7605,7 +7605,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "091c4ef2-7475-4e36-b443-a87b4a440a6a")
+			(uuid "c58ff6a9-ae55-4cbd-bbac-92e9f0f6960c")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -7617,7 +7617,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "091c4ef2-7475-4e36-b443-a87b4a440a6a")
+			(uuid "7ab4c052-c05b-4054-ba0a-bd737a64b72f")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -7641,7 +7641,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "bfc241ba-b140-43f2-b55c-f0eafb6e823e")
+			(uuid "18a29a1c-cda2-4bb0-9ab9-e0098f65de65")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -7649,10 +7649,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "bfc241ba-b140-43f2-b55c-f0eafb6e823e")
+			(uuid "531f1ceb-53f6-43b7-9e5e-3a362076b98b")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -7928,7 +7928,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "a635d506-3373-451b-aacc-f4a7d9b37ae8")
+			(uuid "1896f83a-1358-4e47-b5b5-eaa2e8da7610")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -7936,7 +7936,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 9 "/3.3_M")
 			(pintype "input")
-			(uuid "a635d506-3373-451b-aacc-f4a7d9b37ae8")
+			(uuid "b6d0e277-462a-4440-84ce-fc6c7ae10efd")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -7956,7 +7956,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "9d5a4cf3-16fa-4caa-9143-f5acbeec0651")
+			(uuid "118d1d4a-8a9c-4e8c-a8b8-ea312d2cba75")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -7968,7 +7968,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "9d5a4cf3-16fa-4caa-9143-f5acbeec0651")
+			(uuid "d5310878-37ff-4004-8a38-e43dad5a8e5f")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -7988,7 +7988,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "0dd1f68b-5470-4947-9bed-9dc0d5a9e6d5")
+			(uuid "fa9e3029-088c-441f-a072-fb9de6a7f158")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -8000,7 +8000,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "0dd1f68b-5470-4947-9bed-9dc0d5a9e6d5")
+			(uuid "d1218dc2-a80e-4d52-b915-57ca35e2b90c")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -8024,7 +8024,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "7f37376c-eceb-4345-af41-aa14807142b5")
+			(uuid "23d1a4cc-01e0-484f-afad-33168fe723d4")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -8032,10 +8032,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "7f37376c-eceb-4345-af41-aa14807142b5")
+			(uuid "29b321a0-c845-42ce-8889-05e130d1b872")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -8311,7 +8311,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "3f195a0f-3bb6-4f5b-80f2-2665761672cf")
+			(uuid "92ecda06-aa20-4755-bfa0-47174713353a")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -8319,7 +8319,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 9 "/3.3_M")
 			(pintype "input")
-			(uuid "3f195a0f-3bb6-4f5b-80f2-2665761672cf")
+			(uuid "82c437d4-3199-4be2-ac31-630166d65544")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -8339,7 +8339,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "8f972003-7de5-4695-a0f9-7267ce6012a2")
+			(uuid "84068e97-48d4-4567-971c-505ea8d1b98d")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -8351,7 +8351,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "8f972003-7de5-4695-a0f9-7267ce6012a2")
+			(uuid "a0cdefc2-1587-41e6-854d-3d3d37492382")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -8371,7 +8371,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "9d5ee810-2a79-49ed-8641-10e07fe47e80")
+			(uuid "141b534b-b590-40f5-9bbe-f6ee4ab4f72d")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -8383,7 +8383,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "9d5ee810-2a79-49ed-8641-10e07fe47e80")
+			(uuid "b450e2f4-6d2f-4502-9bd3-753d896ff669")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -8407,7 +8407,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "a2f0bc24-9a32-428f-9c0e-84472609e8e6")
+			(uuid "8cc52ea6-6700-4828-a2dc-5e60163068c9")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -8415,10 +8415,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "a2f0bc24-9a32-428f-9c0e-84472609e8e6")
+			(uuid "7297e969-a403-4739-8aab-81dd23a4aab2")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -9126,7 +9126,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b70a8b71-86cc-4e36-abc7-bbd9d235d3d8")
+			(uuid "bead1eb1-54f6-456d-8415-217ebfbc5960")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -9134,7 +9134,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 9 "/3.3_M")
 			(pintype "input")
-			(uuid "b70a8b71-86cc-4e36-abc7-bbd9d235d3d8")
+			(uuid "31872c4f-2146-4a9f-bcdb-ff9de053f3ee")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -9154,7 +9154,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "7063b0c4-aad4-419c-b87a-b7d6f97f79e5")
+			(uuid "b8317f87-df64-44be-97cc-79e85d85ca2e")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -9166,7 +9166,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "7063b0c4-aad4-419c-b87a-b7d6f97f79e5")
+			(uuid "4b9d5619-27bb-4f05-ae89-623593d300dd")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -9186,7 +9186,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "fd563e48-26f5-48f6-8c77-aabe3d745d82")
+			(uuid "dd39bac8-7441-42da-8838-fc4ec6de5073")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -9198,7 +9198,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "fd563e48-26f5-48f6-8c77-aabe3d745d82")
+			(uuid "7b3ecc9b-229f-4e73-ab1b-30a98ea77294")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -9222,7 +9222,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "5f8211d8-41e8-4ef0-adc7-939c334042a3")
+			(uuid "35e8e97c-f450-49ca-aa9d-bb37b5bc5abc")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -9230,10 +9230,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "5f8211d8-41e8-4ef0-adc7-939c334042a3")
+			(uuid "fcfaec0b-8ead-4d29-85fa-d6701e815733")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -10778,7 +10778,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "d1d9c883-34b0-4bd3-afa2-38a0ac94286b")
+			(uuid "82dc3971-9005-4058-aac8-a75e81d73316")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -10786,7 +10786,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 37 "Net-(R10-Pad2)")
 			(pintype "input")
-			(uuid "d1d9c883-34b0-4bd3-afa2-38a0ac94286b")
+			(uuid "282ffecf-07d3-4243-8d50-e97dbbb0841a")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -10806,7 +10806,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b13c3a50-9474-44e0-a91d-8566fd6a4d11")
+			(uuid "71312299-b453-41af-bbe8-d0ac262f4eab")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -10818,7 +10818,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b13c3a50-9474-44e0-a91d-8566fd6a4d11")
+			(uuid "7b72adc8-8e04-4267-a09e-cce9a3adb034")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -10838,7 +10838,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "e2e7a43f-f962-4c55-ac8f-300c643f3c74")
+			(uuid "d82653be-1b96-4819-a0fb-8fd506fc213b")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -10850,7 +10850,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "e2e7a43f-f962-4c55-ac8f-300c643f3c74")
+			(uuid "2aa6c3a2-177f-4983-b45a-1dbacc3ffc9c")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -10874,7 +10874,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "18c6310f-ef7c-49bb-bc1a-cc3c81209d64")
+			(uuid "f5518552-2248-4a49-a480-4ca77c1ba904")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -10882,10 +10882,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "18c6310f-ef7c-49bb-bc1a-cc3c81209d64")
+			(uuid "ae07c645-240a-412d-ad55-7d965203b8f0")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -11377,7 +11377,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "dcdaf0b6-a74d-448f-865e-9a2bfa10affa")
+			(uuid "ab28e282-c03e-49a5-af76-bf831d1425db")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -11385,7 +11385,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 46 "Net-(R22-Pad2)")
 			(pintype "input")
-			(uuid "dcdaf0b6-a74d-448f-865e-9a2bfa10affa")
+			(uuid "1a38bb65-84f8-42c6-b804-9d0ff84b9e17")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -11405,7 +11405,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "42feb937-eaa8-4a98-beb5-e2461cc2c9d5")
+			(uuid "2ce2a2b2-67cb-4554-9330-5bb74bddb4fd")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -11417,7 +11417,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "42feb937-eaa8-4a98-beb5-e2461cc2c9d5")
+			(uuid "267a1b4b-3d4a-483f-9632-c2cc718c761b")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -11437,7 +11437,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "17961f7a-abf0-44b1-b3bd-f6fbb5ba27f0")
+			(uuid "78f51832-ce15-4929-a1e0-762fe2362bd7")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -11449,7 +11449,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "17961f7a-abf0-44b1-b3bd-f6fbb5ba27f0")
+			(uuid "bcf5c8be-6a50-4668-94d3-fd309496f2f5")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -11473,7 +11473,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b617f9ff-ba42-427f-b974-190e69e0c775")
+			(uuid "3700dd5c-c276-4983-8813-c2099c501c3a")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -11481,10 +11481,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "b617f9ff-ba42-427f-b974-190e69e0c775")
+			(uuid "b0ef0d54-b5c7-40a0-9b17-f5a3a793c8eb")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -11976,7 +11976,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "7c006554-c974-4f79-881d-0c05282f3915")
+			(uuid "44610d1e-34c6-4fab-9b3d-a80a7462c35d")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -11984,7 +11984,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 9 "/3.3_M")
 			(pintype "input")
-			(uuid "7c006554-c974-4f79-881d-0c05282f3915")
+			(uuid "1d2bd96b-00b8-4a6f-a5ab-23b28832fdaa")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -12004,7 +12004,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "7bf08b39-1877-4e3c-b649-7762c862880e")
+			(uuid "3ec58bce-382d-4984-9469-f750464d8d5d")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -12016,7 +12016,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "7bf08b39-1877-4e3c-b649-7762c862880e")
+			(uuid "c14f4605-1cb6-4213-95f8-7ab7778464b2")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -12036,7 +12036,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b1fd5b43-26ce-48d0-b62f-b0d40b4f1b20")
+			(uuid "388d19bc-acad-4b24-bd30-04eca1e0a38c")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -12048,7 +12048,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b1fd5b43-26ce-48d0-b62f-b0d40b4f1b20")
+			(uuid "69be3730-af06-4fc1-ae23-aef1c92a112d")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -12072,7 +12072,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "34a34fdd-0230-4555-a084-14d19a034343")
+			(uuid "f604f62e-e22f-41b5-a8b5-03cb4ef1c03e")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -12080,10 +12080,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "34a34fdd-0230-4555-a084-14d19a034343")
+			(uuid "c4b37d34-d446-4481-937c-33a99b3345df")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -13627,7 +13627,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "3b7db7d0-de8f-4c1a-ae22-0eb4c30d026c")
+			(uuid "b6c37fa1-c328-456b-aba6-82bb9823a9e0")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -13635,7 +13635,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 9 "/3.3_M")
 			(pintype "input")
-			(uuid "3b7db7d0-de8f-4c1a-ae22-0eb4c30d026c")
+			(uuid "3fead1ae-49d2-4ef9-8579-5f698b0428a9")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -13655,7 +13655,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "44f10251-50db-4f94-baf3-381ad7a333f4")
+			(uuid "6c9bf404-48f4-4f5a-98ae-32c993a1fb69")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -13667,7 +13667,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "44f10251-50db-4f94-baf3-381ad7a333f4")
+			(uuid "0d259dd1-0b67-4479-b77f-c2a25d3eb7c7")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -13687,7 +13687,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b9014799-07b1-401b-9020-e7f665ead296")
+			(uuid "7d64327e-30c1-4e3a-9aa3-1b50f2dd8ad1")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -13699,7 +13699,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b9014799-07b1-401b-9020-e7f665ead296")
+			(uuid "798f752b-c4ce-4feb-a881-ce3fbdfe4a5f")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -13723,7 +13723,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "5d151b2e-ca37-4103-811b-2907269900cf")
+			(uuid "32c96cc8-089f-4aee-b895-e65a1ae7c89f")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -13731,10 +13731,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "5d151b2e-ca37-4103-811b-2907269900cf")
+			(uuid "44f31c62-a303-4059-89ff-e4ab2afce840")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -14631,7 +14631,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "fc351336-7889-43cf-98cb-427c16ab8e00")
+			(uuid "6ba686e6-98a7-49bf-bb96-bde386f86320")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -14639,7 +14639,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 16 "Net-(R1-Pad2)")
 			(pintype "input")
-			(uuid "fc351336-7889-43cf-98cb-427c16ab8e00")
+			(uuid "37fa9425-7168-4d7a-98ec-2ee4bb130d6f")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -14659,7 +14659,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "8d82a95e-2d7e-4d14-937e-17aca707b571")
+			(uuid "378e1b0b-4384-44e9-befa-0a8ee99af320")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -14671,7 +14671,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "8d82a95e-2d7e-4d14-937e-17aca707b571")
+			(uuid "5ea71d22-b25c-4a4b-b835-809de524bb1c")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -14691,7 +14691,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b61ce59b-1a5f-4179-88ab-48383c37e8c3")
+			(uuid "056a43ac-fcf0-42b0-a63f-116c0375ec98")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -14703,7 +14703,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "b61ce59b-1a5f-4179-88ab-48383c37e8c3")
+			(uuid "04551c7e-8527-4071-b9fa-35f9783ffa65")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -14727,7 +14727,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "d196da43-9cda-4ba4-872c-e0671eba59d4")
+			(uuid "d2c1e02e-73ec-47c5-9d5c-13a82b66dab5")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -14735,10 +14735,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "d196da43-9cda-4ba4-872c-e0671eba59d4")
+			(uuid "cf07be26-e83d-4255-b6ab-9c52dc7d4f1c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -15230,7 +15230,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "228fe4d2-4742-4d66-8f75-0b0699490d04")
+			(uuid "1b2db6e8-c8b5-4aa0-8a9c-34e154e0f28e")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -15238,7 +15238,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 43 "Net-(R19-Pad2)")
 			(pintype "input")
-			(uuid "228fe4d2-4742-4d66-8f75-0b0699490d04")
+			(uuid "46599d7d-79b0-4669-84c4-b231a0b5e312")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -15258,7 +15258,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "86d14c56-c576-417f-b7fd-980455a98f1a")
+			(uuid "9c51be7f-f41e-473b-8a57-54663b56b20a")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -15270,7 +15270,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "86d14c56-c576-417f-b7fd-980455a98f1a")
+			(uuid "97caa3bf-7b0a-465c-a1e2-81840d214a00")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -15290,7 +15290,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "fe33b9ac-e94d-4558-a7d7-87b7879f5d1d")
+			(uuid "a4b6aee6-6997-4d7e-a137-aabcce97ea4b")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -15302,7 +15302,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "fe33b9ac-e94d-4558-a7d7-87b7879f5d1d")
+			(uuid "854b11d7-f0dc-45cf-b799-f5ef8781ad91")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -15326,7 +15326,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "dfdc8522-0ec2-4a49-b653-800e37ae3a8a")
+			(uuid "f4cebf61-2e3f-4f8f-b067-dd9f46758f2c")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -15334,10 +15334,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "dfdc8522-0ec2-4a49-b653-800e37ae3a8a")
+			(uuid "e31c07fc-89df-4263-a4aa-95b6218a7ebc")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -15613,7 +15613,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "a9aa9c9b-e95c-4d73-99b2-27b645eabd7b")
+			(uuid "7b0a7a85-6779-4ee4-8668-4f56aef15720")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -15621,7 +15621,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 41 "Net-(R16-Pad2)")
 			(pintype "input")
-			(uuid "a9aa9c9b-e95c-4d73-99b2-27b645eabd7b")
+			(uuid "d4d10b00-1c07-4c82-bc6b-fe76a9d97f14")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -15641,7 +15641,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "c178e732-d2e7-491b-853d-7c0c52ae5116")
+			(uuid "227592ff-3991-48bb-93ee-f4ecd4d766fa")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -15653,7 +15653,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "c178e732-d2e7-491b-853d-7c0c52ae5116")
+			(uuid "ab5dd3c8-e0a1-4b26-8fe4-91d1b93e0c92")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -15673,7 +15673,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "3292f474-ffa6-4777-80f0-de0823f32f8a")
+			(uuid "1df386ac-7b7c-4b7e-b3e5-b9446542dca4")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -15685,7 +15685,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "3292f474-ffa6-4777-80f0-de0823f32f8a")
+			(uuid "993a2a80-bcd5-4607-b4cc-e7150fae0b0d")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -15709,7 +15709,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "f11099dd-5b28-4e3b-9669-c20ad1e030a4")
+			(uuid "3812d099-e211-42eb-81fd-2cbf80057c48")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -15717,10 +15717,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "f11099dd-5b28-4e3b-9669-c20ad1e030a4")
+			(uuid "88f6dbc4-fb28-4982-9ae1-cca802e131bf")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
@@ -16970,7 +16970,7 @@
 			(pintype "input")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "46fafd6e-cd71-4ba8-a247-7ab07d8600bf")
+			(uuid "2f145dcc-a9ce-40ee-a45d-aac92099974c")
 		)
 		(pad "1" smd rect
 			(at -1.863801 -1.0832 225)
@@ -16978,7 +16978,7 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 24 "Net-(R7-Pad2)")
 			(pintype "input")
-			(uuid "46fafd6e-cd71-4ba8-a247-7ab07d8600bf")
+			(uuid "a6c986a6-ef2b-4890-8c37-de6047e636e6")
 		)
 		(pad "2" smd rect
 			(at 1.87 -1.0832 225)
@@ -16998,7 +16998,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "ec5552ce-36f2-48f8-b568-966b1e76e6a3")
+			(uuid "08057172-885d-40c7-8749-5f86aca139c8")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -0.535132 225)
@@ -17010,7 +17010,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "ec5552ce-36f2-48f8-b568-966b1e76e6a3")
+			(uuid "22b6e144-6dde-4c8a-aa34-9a6684128aac")
 		)
 		(pad "3" smd rect
 			(at 1.87 1.0668 225)
@@ -17030,7 +17030,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "fe029d3b-b352-42e7-9d02-aaf2cea1e275")
+			(uuid "6e7a1ee5-7e13-4f81-a5f1-2260e0864dfd")
 		)
 		(pad "3" thru_hole circle
 			(at 2.54 1.575 225)
@@ -17042,7 +17042,7 @@
 			(pintype "open_collector")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "fe029d3b-b352-42e7-9d02-aaf2cea1e275")
+			(uuid "fe1c66fc-7ca1-4719-85e2-89ac91e939e3")
 		)
 		(pad "4" thru_hole circle
 			(at -2.55 0.519934 225)
@@ -17066,7 +17066,7 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.05)
 			(clearance 0.05)
-			(uuid "53d01129-00f1-4356-a261-92ddea67bec4")
+			(uuid "d4976a85-94e8-4164-98dd-5d41a72b64bb")
 		)
 		(pad "4" smd rect
 			(at -1.899999 1.0668 225)
@@ -17074,10 +17074,10 @@
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 8 "/GND_M")
 			(pintype "power_in")
-			(uuid "53d01129-00f1-4356-a261-92ddea67bec4")
+			(uuid "f7a422dd-0d37-4f14-a3fa-437ceb7fc3ee")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/custom_libraries/custom_footprints/3d_models/ITR8307.step"
+		(model "C:/Users/Samuel/Documents/GitHub/MictlanTeam-Library/3dmodels/ITR8307.step"
 			(offset
 				(xyz -1.5 -2.1 0)
 			)
