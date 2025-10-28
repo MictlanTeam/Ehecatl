@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Read(//c/Users/Samuel/Documents/GitHub/Ehecatl/**)",
+      "Read(//c/Users/Samuel/Downloads/PX-01-main/PX-01-main/software/PX-01 Basic/**)",
+      "Read(//c/Users/Samuel/Downloads/PX-01-main/PX-01-main/software/PX-01 Pro & OPR Style/**)",
+      "Bash(ls:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
