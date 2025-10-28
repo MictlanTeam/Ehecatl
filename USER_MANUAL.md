@@ -360,27 +360,6 @@ Y envíalos cada vez que enciendas
 
 ---
 
-## 📞 Soporte
-
-### ¿Necesitas Ayuda?
-
-1. **Revisa esta guía primero**
-2. **Verifica sección "Solución de Problemas"**
-3. **Revisa el README.md** para detalles técnicos
-4. **GitHub Issues**: Reporta problemas
-5. **Serial Monitor**: Diagnóstico en tiempo real
-
-### Información Útil para Reportar Problemas
-
-Incluye:
-- ✅ Comando que genera el problema
-- ✅ Mensaje de error (si hay)
-- ✅ Configuración actual (v, a, f)
-- ✅ Salida del comando `r` (valores de sensores)
-- ✅ Tipo de pista (curvas cerradas, rectas largas, etc.)
-
----
-
 ## 🎓 Consejos de Competencia
 
 ### Antes de la Competencia
