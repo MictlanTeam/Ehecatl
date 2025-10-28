@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-ESP32--S3-green.svg)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)
 
-**EHECATL** (pronunciado "Ehécatl") es un robot seguidor de línea de alta velocidad diseñado para competencias de racing. Su nombre proviene del dios azteca del viento, representando su característica principal: un sistema de succión mediante turbina para generar efecto ground y aumentar la tracción en curvas a alta velocidad.
+**EHECATL** (pronunciado "Ehécatl") es un robot seguidor de línea diseñado para competencias de racing. Su nombre proviene del dios azteca del viento, representando su característica principal: un sistema de succión mediante turbina para generar efecto ground y aumentar la tracción en curvas a alta velocidad.
 
 ## 🏆 Características Principales
 
