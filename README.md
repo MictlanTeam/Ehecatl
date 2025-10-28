@@ -206,117 +206,19 @@ El robot puede iniciarse de 3 formas:
 | `f[num]` | Cambiar velocidad turbina (0-100%) | `f90` |
 | `cal` | Re-calibrar sensores | - |
 
-## 🎛️ Funcionalidades Avanzadas
-
-### Pre-inicio Inteligente
-
-Durante el último segundo de cuenta regresiva:
-- Turbina se activa al 85%
-- Control PID sin avanzar (mantiene centrado)
-- Robot estabilizado antes de arrancar
-
-### Aceleración Mejorada
-
-- Velocidad inicial: 20%
-- Aceleración gradual según configuración
-- Previene arranques lentos
-
-### Protección de Motores
-
-Los motores solo funcionan cuando:
-- Carrera iniciada
-- Pre-inicio activo
-- 1 segundo después de detenerse (freno gradual)
-
-### Detección de Pérdida de Línea
-
-- Timeout: 250ms
-- Detención automática de motores y turbina
-- Mensaje en serial
-
-## 🔧 Desarrollo
-
-### Agregar Nuevas Funciones
-
-1. Crear funciones en archivos `.cpp` correspondientes
-2. Declarar en headers `.h`
-3. Llamar desde `main.cpp`
-
-### Ajustar PID
-
-```cpp
-// En control.h
-#define PID_KP 0.2   // Aumentar para respuesta más agresiva
-#define PID_KD 0.80  // Aumentar para reducir oscilaciones
-```
-
-### Cambiar Configuración de Sensores
-
-```cpp
-// En sensors.h
-#define SENSORS_COUNT 16
-#define SENSORS_CALIBRATION_MS 3000
-#define SENSORS_POSITION_MAX 255
-```
-
-## 🐛 Solución de Problemas
-
-| Problema | Causa | Solución |
-|----------|-------|----------|
-| Flash size error | Configuración incorrecta | Verificar `platformio.ini` |
-| ESC no responde | Inicialización incompleta | Esperar 2-3 segundos al encender |
-| Sensores sin contraste | Calibración insuficiente | Re-calibrar con `cal` |
-| Robot no arranca | Botón no detectado | Verificar pin 13 con pull-up |
-| Motores no responden | Estado incorrecto | Verificar que esté en carrera |
-
 ## 📊 Rendimiento
 
-### Especificaciones de Velocidad
 
-- **Velocidad base**: Configurable 0-100%
-- **Aceleración**: Configurable 0-100%
-- **Velocidad turbina**: Configurable 0-100%
-- **Frecuencia de control**: 1 kHz
-- **Tiempo de respuesta**: ~1 ms
-
-### Consumo
-
-- **Standby**: ~50 mA
-- **Motores (50%)**: ~500 mA
-- **Turbina (80%)**: ~2-4 A
-- **Total (carrera)**: ~3-5 A
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crear branch (`git checkout -b feature/mejora`)
-3. Commit cambios (`git commit -m 'Agregar mejora'`)
-4. Push al branch (`git push origin feature/mejora`)
-5. Abrir Pull Request
 
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detalles.
 
-## 🙏 Créditos
-
-- **Inspirado en**: PX-01 Basic & Pro by PololuRacing
-- **Hardware**: ESP32-S3 by Espressif Systems
-- **Framework**: Arduino & PlatformIO
-
-## 📧 Contacto
-
-- **Autor**: Samuel
-- **GitHub**: [Tu perfil de GitHub]
-- **Email**: [Tu email]
-
 ## 🔗 Enlaces Útiles
 
 - [Documentación ESP32-S3](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/)
 - [PlatformIO Docs](https://docs.platformio.org/)
-- [Arduino ESP32 Core](https://github.com/espressif/arduino-esp32)
+- [ESP32-S3-Zero](https://www.waveshare.com/wiki/ESP32-S3-Zero)
 
 ---
 
