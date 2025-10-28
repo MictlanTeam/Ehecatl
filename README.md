@@ -73,46 +73,6 @@ KD = 0.80   // Ganancia derivativa
 - **Calibración sensores**: 3000 ms
 - **Tiempo máximo de prueba**: 30000 ms
 
-## 🚀 Instalación
-
-### Requisitos
-
-- [PlatformIO](https://platformio.org/) (recomendado)
-- O [Arduino IDE](https://www.arduino.cc/en/software) con soporte ESP32
-
-### Dependencias
-
-- **ESP32 Core**: v2.0.0 o superior
-- **Framework**: Arduino
-
-### Pasos de Instalación
-
-1. **Clonar el repositorio**
-   ```bash
-   git clone https://github.com/tu-usuario/Ehecatl.git
-   cd Ehecatl/code
-   ```
-
-2. **Abrir con PlatformIO**
-   ```bash
-   pio init
-   ```
-
-3. **Compilar**
-   ```bash
-   pio run
-   ```
-
-4. **Cargar al ESP32-S3**
-   ```bash
-   pio run -t upload
-   ```
-
-5. **Abrir monitor serial**
-   ```bash
-   pio device monitor -b 115200
-   ```
-
 ## ⚙️ Configuración
 
 ### Configuración de Flash (platformio.ini)
