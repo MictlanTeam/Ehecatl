@@ -73,30 +73,6 @@ KD = 0.80   // Ganancia derivativa
 - **Calibración sensores**: 3000 ms
 - **Tiempo máximo de prueba**: 30000 ms
 
-## 📁 Estructura del Proyecto
-
-```
-Ehecatl/
-├── code/
-│   ├── include/
-│   │   ├── pinout.h      # Definición de pines
-│   │   ├── sensors.h     # Header de sensores
-│   │   ├── motors.h      # Header de motores
-│   │   ├── control.h     # Header de control PID
-│   │   └── utils.h       # Header de utilidades
-│   ├── src/
-│   │   ├── main.cpp      # Programa principal
-│   │   ├── sensors.cpp   # Lectura y calibración de sensores
-│   │   ├── motors.cpp    # Control de motores y turbina
-│   │   ├── control.cpp   # Lógica de control PID
-│   │   └── utils.cpp     # Botón, LED, y utilidades
-│   ├── platformio.ini    # Configuración de PlatformIO
-│   └── README.md
-├── pcb/                  # Archivos de diseño PCB
-├── 3d/                   # Modelos 3D
-└── docs/                 # Documentación adicional
-```
-
 ## 🚀 Instalación
 
 ### Requisitos
